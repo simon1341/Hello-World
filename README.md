@@ -1,5 +1,4 @@
-# Hello-World
-Open-Source Software
+# About Me
 
 About me:
 -Name: 홍성현(simon hong)
